@@ -1,0 +1,5 @@
+{
+  "weights": "model/central.pt",
+  "field_accuracy": 0.2578616352201258,
+  "n": 159
+}

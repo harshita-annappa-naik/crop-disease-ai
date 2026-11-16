@@ -1,0 +1,5 @@
+{
+  "weights": "model/field_finetuned.pt",
+  "field_accuracy": 0.4528301886792453,
+  "n": 159
+}
