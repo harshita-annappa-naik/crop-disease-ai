@@ -4,3 +4,5 @@ numpy
 scikit-learn
 matplotlib
 pillow
+grad-cam
+opencv-python-headless
